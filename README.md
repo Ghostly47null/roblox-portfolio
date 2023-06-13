@@ -40,6 +40,7 @@ you need. If I do feel uncomfortable about your payments, I will let you know.
 ![Contact](https://github.com/Ghostly47null/roblox-portfolio/blob/main/imgs/Ghostly__Contact.jpg?raw=true)
 
 > Roblox: Ghostly_1225 (**NOT** recommended)
+> 
 > DISCORD: Ghostly.47#0545 (recommended if you dm me)
 
 ![Divider](https://github.com/Ghostly47null/roblox-portfolio/blob/main/imgs/Spacer_Card.png?raw=true)
