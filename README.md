@@ -11,12 +11,14 @@ Known & Proficient Coding Languages: HTML, HTML5, CSS, JS, PYTHON, LUA, C++
 
 ![Showcases](https://github.com/Ghostly47null/roblox-portfolio/blob/main/imgs/Ghostly__Showcases.jpg?raw=true)
 
-You can view my previous work: 
+You can view my previous work, for certain things I can't show the code because owners or me want it not known 100%: 
 
 [details="Scripting I worked on"]
+ * FallDamage
 [/details]
 
 [details="GFXs I done"]
+ * My First Test
 [/details]
 
 
