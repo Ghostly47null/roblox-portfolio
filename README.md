@@ -30,8 +30,16 @@ My time zone is - Eastern Standard Time (EST). I am available during the day. My
 
 ![Payment](https://github.com/Ghostly47null/roblox-portfolio/blob/main/imgs/Ghostly__Payment.jpg?raw=true)
 
+Prices are negotiable, I accept either hourly pay or per asset. My preferred payment method is after finished work, knowing that I have completed what
+you need. If I do feel uncomfortable about your payments, I will let you know.
+
+> **ROBUX** **ONLY**
+
 ![Divider](https://github.com/Ghostly47null/roblox-portfolio/blob/main/imgs/Spacer_Card.png?raw=true)
 
 ![Contact](https://github.com/Ghostly47null/roblox-portfolio/blob/main/imgs/Ghostly__Contact.jpg?raw=true)
+
+> Roblox: Ghostly_1225 (**NOT** recommended)
+> DISCORD: Ghostly.47#0545 (recommended if you dm me)
 
 ![Divider](https://github.com/Ghostly47null/roblox-portfolio/blob/main/imgs/Spacer_Card.png?raw=true)
