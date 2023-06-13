@@ -13,6 +13,11 @@ Known & Proficient Coding Languages: HTML, HTML5, CSS, JS, PYTHON, LUA, C++
 
 You can view my previous work: 
 
+[details="Scripting I worked on"]
+[/details]
+
+[details="GFXs I done"]
+[/details]
 
 
 ![Divider](https://github.com/Ghostly47null/roblox-portfolio/blob/main/imgs/Spacer_Card.png?raw=true)
